@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\bin\Debug\Week8Bonus.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\bin\Debug\Week8Bonus.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\bin\Debug\Week8Bonus.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\obj\Debug\Week8Bonus.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\obj\Debug\Week8Bonus.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\Week8Bonus\Week8Bonus\obj\Debug\Week8Bonus.pdb
